@@ -5,45 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f86cc86-35c2-41cb-aec5-83b04f472501" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/assets/data.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/home_controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/controllers/jobs_controller.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/routes/routes.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/start/init.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/start/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/home.edge" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/job.edge" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/views/jobs.edge" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/.idea/project3.iml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/.idea/project3.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/data.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/markdown/stelle1.md" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/markdown/stelle1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/markdown/stelle2.md" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/markdown/stelle2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/markdown/stelle3.md" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/markdown/stelle3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/markdown/stelle4.md" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/markdown/stelle4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/markdown/stelle5.md" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/markdown/stelle5.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/backend/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/examples/backend/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/Markdown.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/assets/imgs/05_Mindsquare_MG.jpg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/assets/imgs/05_Mindsquare_MG.jpg.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/assets/imgs/136_Mindsquare_MG.jpg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/assets/imgs/136_Mindsquare_MG.jpg.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/assets/imgs/13_Mindsquare_MG.jpg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/assets/imgs/13_Mindsquare_MG.jpg.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/assets/imgs/223_Mindsquare_MG.jpg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/assets/imgs/223_Mindsquare_MG.jpg.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/assets/imgs/31_Mindsquare_MG.jpg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/assets/imgs/31_Mindsquare_MG.jpg.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/assets/imgs/82_Mindsquare_MG.jpg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/assets/imgs/82_Mindsquare_MG.jpg.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/assets/imgs/84_Mindsquare_MG.jpg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/assets/imgs/84_Mindsquare_MG.jpg.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/assets/imgs/Mindsquare_Logopng.webp" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/assets/imgs/Mindsquare_Logopng.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/assets/imgs/img1.jpg.webp" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/assets/imgs/img1.jpg.webp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/libs/marked.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/libs/marked.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -153,7 +115,7 @@
       <workItem from="1744929835330" duration="239000" />
       <workItem from="1744930084414" duration="221000" />
       <workItem from="1744930314358" duration="32026000" />
-      <workItem from="1745007980327" duration="6380000" />
+      <workItem from="1745007980327" duration="6747000" />
     </task>
     <servers />
   </component>
