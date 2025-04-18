@@ -1,0 +1,23 @@
+{
+  "name": "job-portal",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "dev": "nodemon src/start/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  },
+  "dependencies": {
+    "edge.js": "^6.2.1",
+    "express": "^5.1.0"
+  }
+}
