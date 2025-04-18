@@ -1,0 +1,1 @@
+### (Junior) Marketing Manager für Content- und Videomarketing (m/w/d)Du möchtest deine Leidenschaft für Content- und Videomarketing gerne zu deinem Beruf machen? Dann ist unser Marketingteam genau das richtige für dich! Wir setzen auf moderne Technologien, um unsere Marketing-Strategien kontinuierlich weiterzuentwickeln

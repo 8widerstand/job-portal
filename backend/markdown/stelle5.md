@@ -1,0 +1,1 @@
+### Werkstudent IT-Recruiting (m/w/d)Du unterstützt im IT-Recruiting bei einem der besten Arbeitgeber Deutschlands und erhältst sowohl Einblicke in das IT-Projektgeschäft als auch in verschiedene Personal- und Vertriebsthemen.

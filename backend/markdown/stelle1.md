@@ -1,0 +1,1 @@
+### Werkstudent Webentwicklung (m/w/d)Du wirst Teil des Marketingteams und bekommst Einblicke in die Webentwicklung bei einem der besten Arbeitgeber Deutschlands. In einem dynamischen Umfeld kannst du praktische Erfahrungen sammeln und dich aktiv an der (Weiter-)Entwicklung von unseren Webseiten.
