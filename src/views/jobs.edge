@@ -1,15 +1,25 @@
 <!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
 	<meta charset="utf-8">
+	<title>Job-portal</title>
+	<link rel="stylesheet" href="style.css">
 </head>
 <body>
-  @each(job in jobs)
-    <div>
-        <h2>{{ job.title }}</h2>
-        <p>{{ job.description }}</p>
-        <a href="/jobs/{{ job.id }}">View details</a>
+    <div id="job-description">
+        <div class="card">
+              @each(job in jobs)
+                <div class="item">
+                        <h2>{{ job.title }}</h2>
+                        <p>{{ job.description }}</p>
+                    <div class="button">
+                        <div class="btn">
+                            <a href="/jobs/{{ job.id }}">View details</a>
+                        </div>
+                    </div>
+                </div>
+              @end
+          </div>
     </div>
-  @end
 </body>
 </html>
