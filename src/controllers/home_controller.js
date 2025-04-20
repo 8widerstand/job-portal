@@ -1,12 +1,6 @@
-import {initViews} from "../start/init.js";
-
-const edge = initViews()
 
 export const getHome = async (req, res) => {
-    const html = await edge.render('home', { username: 'Virk' })
-
-    res.setHeader('content-type', 'text/html')
-    res.end(html)
+    res.render('home', { username: 'Virk' })
 }
 
 export const getTest = async (req, res) => {
