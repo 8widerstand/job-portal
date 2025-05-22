@@ -1,4 +1,4 @@
-import {getJobById, getJobs} from "../controllers/jobs_controller.js";
+import {getJobById, getJobs, getJobTitle} from "../controllers/jobs_controller.js";
 import {getHome, getTest} from "../controllers/home_controller.js";
 
 export const initRoutes = (app) => {
@@ -9,4 +9,7 @@ export const initRoutes = (app) => {
     app.get('/', getHome)
 
     app.get('/test', getTest)
+
+    app.get('/jobs/:jobTitle', getJobTitle)
+
 }

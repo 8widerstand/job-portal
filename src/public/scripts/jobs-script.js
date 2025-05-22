@@ -1,1 +1,1 @@
-console.log("Script for jobs page should be written here");
+console.log("Script for jobs page should be written here");

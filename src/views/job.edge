@@ -1,9 +1,66 @@
+
 <!DOCTYPE html>
-<html>
+<html lang="de">
 <head>
 	<meta charset="utf-8">
+
+	<title>{{ job.title }} </title>
+
+	<!--<link rel="stylesheet" href="/styles/styles.css">-->
+   <!-- <script src="../scripts/jobs-script.js" defer></script> -->
 </head>
 <body>
-  <h2>{{ jobId }}</h2>
+    <section class="container">
+        <header>
+            <div class="logo" >
+              <!-- <img class="logo-img" src="../assets/imgs/Mindsquare_Logopng.webp" width="100" alt="logo"/> -->
+
+            </div>
+        </header>
+    </section>
+
+    <main class="container">
+        <div>
+             <img src="/assets/imgs/195_Mindsquare_MG_0830.jpg.webp" width="300"  alt="">
+        </div>
+        <div>
+            <h1>{{ job.title }}</h1>
+            <p> Entwickle dich zur besten Version deiner selbst, und verändere die digitale Welt für immer. Dafür findest du bei mindsquare perfekte Voraussetzungen: Freundschaft, digitale Exzellenz, die Freiheit, mutige Entscheidungen zu treffen und die Chance, ein Maximum an Wissen abzugreifen.</p>
+            <article>
+                <a href="#">Jetzt Bewerben</a>
+            </article>
+        </div>
+
+        <div class="markdown">
+
+        </div>
+    </main>
+
+    <section class="container">
+        <div class="infos">
+            <div class="infos-img">
+                <img src="/assets/imgs/205_Mindsquare_MG_0948.jpg.webp"   alt="">
+            </div>
+            <div class="infos-text">
+                <div class="infos-text1">
+                    <p>Start: ab sofort</p>
+                    <p>Tätigkeitsbereich: Marketing</p>
+                </div>
+                <div class="infos-text2">
+                    <p>Beschäftigungsart: Werkstudent</p>
+                    <p>Standort: Deutschlandweit</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="container">
+        <div class="duty">
+            <h1>Starte voll durch – deine Aufgaben bei uns</h1>
+        </div>
+    </section>
+    <section class="container">
+        {{{htmlContent}}}
+    </section>
 </body>
 </html>

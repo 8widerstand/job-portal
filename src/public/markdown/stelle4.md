@@ -1,0 +1,1 @@
+### (Senior) Presales Consultant SAP Cloud Security (m/w/d)Als Presales Consultant (m/w/d) im Bereich SAP Cloud Security übernimmst du eine Schlüsselrolle in der Beratung und Akquise neuer Kunden und unterstützt das Team bei der Entwicklung innovativer Lösungen.

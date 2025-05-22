@@ -9,6 +9,7 @@ const __dirname = path.dirname(__filename)
 export const initEdge = (app) => {
     const edge = new Edge()
     app.set('views', path.join(__dirname, '..', 'views'))
+
     app.engine('edge', (filePath, options, callback) => {
         edge.render(filePath, options)
             .then(rendered => callback(null, rendered))
@@ -18,5 +19,5 @@ export const initEdge = (app) => {
 }
 
 export const initStatic = (app) => {
-    app.use(express.static(path.join(__dirname, '..', 'public')))
+    app.use(express.static(path.join(__dirname, '..', 'public')));//pour les fichiers statique css,js,images.
 }

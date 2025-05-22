@@ -5,15 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3f86cc86-35c2-41cb-aec5-83b04f472501" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/public/scripts/jobs-script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/assets/imgs/05_Mindsquare_MG.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/assets/imgs/136_Mindsquare_MG.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/assets/imgs/13_Mindsquare_MG.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/assets/imgs/223_Mindsquare_MG.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/assets/imgs/31_Mindsquare_MG.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/assets/imgs/82_Mindsquare_MG.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/assets/imgs/84_Mindsquare_MG.jpg.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/assets/imgs/Mindsquare_Logopng.webp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/public/assets/imgs/img1.jpg.webp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/examples/frontend/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/examples/frontend/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/controllers/home_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/home_controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/controllers/jobs_controller.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/controllers/jobs_controller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/scripts/jobs-script.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/scripts/jobs-script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/public/styles/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/styles/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/routes/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/routes/routes.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/start/init.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/init.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/start/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/start/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/home.edge" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/home.edge" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/views/job.edge" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/job.edge" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/views/jobs.edge" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/jobs.edge" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/public/styles/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,10 +35,10 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="tsconfig.json" />
+        <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -45,6 +57,9 @@
     &quot;accountId&quot;: &quot;cf7fcd27-1b1c-4f94-bc40-3489604e6aed&quot;
   }
 }</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -72,15 +87,19 @@
     "nodejs_interpreter_path": "node",
     "nodejs_package_manager_path": "npm",
     "npm.dev.executor": "Run",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
-    "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-plugin/jsLanguageServicesImpl/external",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\MSI Sword 15\Desktop\Project\project3\src\public" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/public" />
-      <recent name="$PROJECT_DIR$/src/styles" />
+      <recent name="C:\Users\MSI Sword 15\Desktop\Project\project3\src\public\assets" />
+      <recent name="C:\Users\MSI Sword 15\Desktop\Project\project3\src\public\html" />
+      <recent name="C:\Users\MSI Sword 15\Desktop\Project\project3\src\assets" />
       <recent name="C:\Users\MSI Sword 15\Desktop\Project\project3\backend" />
       <recent name="C:\Users\MSI Sword 15\Desktop\Project\project3\frontend\pages\markdown files" />
     </key>
@@ -122,6 +141,12 @@
       <workItem from="1744930084414" duration="221000" />
       <workItem from="1744930314358" duration="34823000" />
       <workItem from="1745183904028" duration="626000" />
+      <workItem from="1745197116772" duration="3264000" />
+      <workItem from="1745200439254" duration="10405000" />
+      <workItem from="1745223637155" duration="5874000" />
+      <workItem from="1745262235693" duration="3399000" />
+      <workItem from="1745783765508" duration="19000" />
+      <workItem from="1747867311834" duration="23306000" />
     </task>
     <servers />
   </component>
