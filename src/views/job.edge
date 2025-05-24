@@ -6,61 +6,147 @@
 
 	<title>{{ job.title }} </title>
 
-	<!--<link rel="stylesheet" href="/styles/styles.css">-->
-   <!-- <script src="../scripts/jobs-script.js" defer></script> -->
+	<link rel="stylesheet" href="/styles/styles.css">
+   <script src="../scripts/jobs-script.js" defer></script>
 </head>
 <body>
     <section class="container">
         <header>
             <div class="logo" >
-              <!-- <img class="logo-img" src="../assets/imgs/Mindsquare_Logopng.webp" width="100" alt="logo"/> -->
+              <img class="logo-img" src="../assets/imgs/Mindsquare_Logopng.webp" width="100" alt="logo"/>
 
             </div>
         </header>
     </section>
 
-    <main class="container">
-        <div>
-             <img src="/assets/imgs/195_Mindsquare_MG_0830.jpg.webp" width="300"  alt="">
+    <main class="container description">
+        <div class="img-description">
+             <img src="/assets/imgs/195_Mindsquare_MG_0830.jpg.webp"  alt="">
         </div>
-        <div>
+        <div class="text-description">
             <h1>{{ job.title }}</h1>
             <p> Entwickle dich zur besten Version deiner selbst, und verändere die digitale Welt für immer. Dafür findest du bei mindsquare perfekte Voraussetzungen: Freundschaft, digitale Exzellenz, die Freiheit, mutige Entscheidungen zu treffen und die Chance, ein Maximum an Wissen abzugreifen.</p>
             <article>
-                <a href="#">Jetzt Bewerben</a>
+                <a href="#" class="apply">Jetzt Bewerben</a>
             </article>
-        </div>
-
-        <div class="markdown">
-
         </div>
     </main>
 
-    <section class="container">
+    <section class="container section1">
         <div class="infos">
-            <div class="infos-img">
-                <img src="/assets/imgs/205_Mindsquare_MG_0948.jpg.webp"   alt="">
-            </div>
-            <div class="infos-text">
-                <div class="infos-text1">
-                    <p>Start: ab sofort</p>
-                    <p>Tätigkeitsbereich: Marketing</p>
+            <div class="infos-content">
+                <div class="infos-img">
+                    <img src="/assets/imgs/205_Mindsquare_MG_0948.jpg.webp"   alt="">
                 </div>
-                <div class="infos-text2">
-                    <p>Beschäftigungsart: Werkstudent</p>
-                    <p>Standort: Deutschlandweit</p>
+                <div class="infos-text">
+                    <div class="infos-text1">
+                        <div class="sub-infos-text1">
+                            <p>Start: ab sofort</p>
+                            <p>Tätigkeitsbereich: Marketing</p>
+                        </div>
+                        <div>
+                            <p>Beschäftigungsart: Werkstudent</p>
+                            <p>Standort: Deutschlandweit</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section class="container">
-        <div class="duty">
+    <section class="container duty">
+        <div>
             <h1>Starte voll durch – deine Aufgaben bei uns</h1>
         </div>
     </section>
-    <section class="container">
-        {{{htmlContent}}}
+
+    <section class="container html-content">
+        <div class="html-text-content">
+            {{{htmlContent}}}
+        </div>
     </section>
+
+    <section class="container section2">
+    <div class="section2-content">
+        <div>
+            <div class="infos-img">
+                <img src="/assets/imgs/184_Mindsquare_MG.jpg.webp"  alt="">
+            </div>
+        </div>
+        <div>
+            <p><h1>So wirst du zum << Du 2.0 >></h1></p>
+            <div class="section2-text">
+                <p>Digitale Exezellenz, die dich wachsen lässt.</p>
+                <p>Starke Teams, die Freundschaft leben</p>
+                <p>Die Freiheit, mutige Entscheidungen zu treffen</p>
+                <p>Die Chance, ein Maximum an Wissen abzugreifen</p>
+            </div>
+        </div>
+    </div>
+    </section>
+
+    <section class="container formular">
+        <div class="formular-text">
+                <h1>Deine Bewerbung bei mindsquare ist der erste Schritt zu deinem << Du 2.0 >></h1>
+                <p>Einfach ausfüllen, Lebenslauf und relevante Zeugnisse hochladen und abschicken. Auf ein Anschreiben verzichten wir. Bestenfalls möchten wir dich schließlich persönlich kennenlernen.</p>
+        </div>
+        <form action="" class="formular-content">
+            <label for="">
+                 <input type="text" placeholder="Vorname*" class="formular-content-input" >
+            </label>
+            <label for="">
+                 <input type="email" placeholder="E-Mail*" >
+            </label>
+            <label for="">
+                  <input type="number" placeholder="Telefonnummer*" >
+            </label>
+            <label for="">
+                <input type="text" placeholder="Link zu Xing oder LinkedIn" >
+            </label>
+            <label for="">
+                  <input type="text" placeholder="Ausbildung als/Studium">
+            </label>
+            <label for="">
+                  <input type="text"  placeholder="Name der Hochschule" >
+            </label>
+            <label for="">
+                 <input type="text"  placeholder="Mitarbeiterwerbung durch" >
+            </label>
+            <label for="">
+                <input type="text" placeholder="Nachname*" >
+            </label>
+
+            <div class="btn-formular">
+                 <button type="submit"  class="btn"> jetzt Bewerben</button>
+            </div>
+
+        </form>
+        <div class="formular-text2">
+            <i>Wie geht es weiter? Wir werden deine Bewerbung innerhalb von 2 oder 3 Werktagen sichten und uns dann mit dir per E-Mail in Verbindung setzen.</i>
+        </div>
+    </section>
+
+
+
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
