@@ -11,10 +11,9 @@
 </head>
 <body>
     <section class="container">
-        <header>
+        <header >
             <div class="logo" >
-              <img class="logo-img" src="../assets/imgs/Mindsquare_Logopng.webp" width="100" alt="logo"/>
-
+              <img class="logo-img" src="../assets/imgs/logo.png" width="100" alt="logo"/>
             </div>
         </header>
     </section>
@@ -90,37 +89,46 @@
                 <h1>Deine Bewerbung bei mindsquare ist der erste Schritt zu deinem << Du 2.0 >></h1>
                 <p>Einfach ausfüllen, Lebenslauf und relevante Zeugnisse hochladen und abschicken. Auf ein Anschreiben verzichten wir. Bestenfalls möchten wir dich schließlich persönlich kennenlernen.</p>
         </div>
-        <form action="" class="formular-content">
+        <div class="formular">
+             <form action="" class="formular-content">
             <label for="">
-                 <input type="text" placeholder="Vorname*" class="formular-content-input" >
+                 <input type="text" id="firstName" class="firstName" placeholder="Vorname*" >
             </label>
+                 <div class="error"></div>
+            <label>
+                <input type="text" id="lastName" class="lastName" placeholder="Nachname*" >
+            </label>
+                <div class="error"></div>
             <label for="">
-                 <input type="email" placeholder="E-Mail*" >
+                <input type="email" id="email" class="email" placeholder="E-Mail*" >
             </label>
+                <div class="error"></div>
             <label for="">
-                  <input type="number" placeholder="Telefonnummer*" >
+                <input type="number" id="phone" class="phone" placeholder="Telefonnummer*" >
             </label>
+                <div class="error"></div>
             <label for="">
                 <input type="text" placeholder="Link zu Xing oder LinkedIn" >
             </label>
             <label for="">
-                  <input type="text" placeholder="Ausbildung als/Studium">
+                <input type="text" id="studyName" class="studyName" placeholder="Ausbildung als/Studium*">
             </label>
+                <div class="error"></div>
             <label for="">
-                  <input type="text"  placeholder="Name der Hochschule" >
+                <input type="text" id="uni-name" class="uni-name"  placeholder="Name der Hochschule*" >
             </label>
+                <div class="error"></div>
             <label for="">
                  <input type="text"  placeholder="Mitarbeiterwerbung durch" >
             </label>
-            <label for="">
-                <input type="text" placeholder="Nachname*" >
-            </label>
+
 
             <div class="btn-formular">
                  <button type="submit"  class="btn"> jetzt Bewerben</button>
             </div>
 
         </form>
+        </div>
         <div class="formular-text2">
             <i>Wie geht es weiter? Wir werden deine Bewerbung innerhalb von 2 oder 3 Werktagen sichten und uns dann mit dir per E-Mail in Verbindung setzen.</i>
         </div>
